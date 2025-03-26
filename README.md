@@ -2,6 +2,8 @@
 
 Ein modernes Web-Tool zur systematischen Eingrenzung und Dokumentation von IT-Problemen. Das Tool unterstützt sowohl Support-Mitarbeiter als auch Endanwender bei der strukturierten Erfassung von technischen Problemen.
 
+**Hinweis**: Dies ist ein Proof of Concept (PoC) Projekt, das als Demonstration und Konzeptnachweis dient.
+
 ## Features
 
 - Schrittweise Diagnose durch vordefinierte Fragenbäume
